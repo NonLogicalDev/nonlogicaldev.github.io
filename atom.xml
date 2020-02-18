@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://nonlogical.net/"/>
+  <link href="https://nonlogicaldev.github.io/"/>
   <updated>2020-02-18T07:59:49.368Z</updated>
-  <id>https://nonlogical.net/</id>
+  <id>https://nonlogicaldev.github.io/</id>
   
   <author>
     <name>Oleg Utkin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://nonlogical.net/2020/02/17/hello-world/"/>
-    <id>https://nonlogical.net/2020/02/17/hello-world/</id>
+    <link href="https://nonlogicaldev.github.io/2020/02/17/hello-world/"/>
+    <id>https://nonlogicaldev.github.io/2020/02/17/hello-world/</id>
     <published>2020-02-18T06:57:14.063Z</published>
     <updated>2020-02-18T07:59:49.368Z</updated>
     
